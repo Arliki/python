@@ -1,0 +1,245 @@
+body {
+	max-width: 1320px;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+ul{
+	margin:0;padding:0;
+}
+li{
+	cursor:pointer;
+	float: left;
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+a:link {
+	color: #5c5c5c;
+}
+.conleft a:hover{
+	color:#dddddd;
+}
+.conleft a:active{
+	color: #a5a5a5;
+}
+.title {
+	padding: 0 10%;
+}
+.wdaohang ul{
+	width: 100%;
+	padding-left: 5%;
+}
+.wdaohang li{
+	padding-top: 2px;
+	padding-bottom: 4px;
+	height: auto;
+	text-align: center;
+	border: 1px solid #e8e8e8;
+	width: 10%;
+	margin-bottom: 5px;
+}
+.wdaohang .act{
+	padding-top:0;
+	border-top-width:3px;
+}
+.conner {
+	margin-top: 10px;
+}
+.home{
+	padding: 0 10%;
+}
+.sub {
+	padding: 0 10%;
+	float: left;
+	overflow: hidden;
+	background: #dddddd;
+}
+.subcon {
+	width: 100%;
+	float: left;
+}
+.subcon ul{
+	width: 100%;
+	padding-left: 0;
+
+}
+.subcon li{
+	padding-top: 0;
+	width: 32%;
+	margin:0 0.6%;
+	margin-bottom: 5px;
+}
+.dayin {
+	float: left;
+	padding: 0 10%;
+	padding-top: 10px;
+}
+.dayin li{
+	width: 48%;
+	margin: 10px;
+}
+.shop {
+	float: left;
+	padding: 0 10%;
+	padding-top: 10px;
+	background: #f4f4f4;
+}
+.shop li{
+	width: 23%;
+	margin: 0 1%;
+}
+.shop li div {
+	padding-top:1px;
+	background: white;
+	text-align: center;
+	font-size: 18px;
+	padding-bottom: 4px;
+	margin-bottom: 25px;
+}
+.detail{
+	padding-left: 0;
+	text-align: center;
+	font-size: 18px;
+	padding-bottom: 30px;
+}
+.detail span{
+	border:1px solid black;
+	padding:0 30px;
+}
+.team {
+	float: left;
+	padding: 0 10%;
+	padding-top: 10px;
+	font-size: 18px;
+	text-align: center;
+}
+.team li{
+	background:#dddddd;
+	color: white;
+	width: 23%;
+	margin: 0 1%;
+	margin-bottom: 20px;
+}
+.teamtype{
+	margin-bottom: 10px;
+}
+.teamtype span{
+	color: white;
+	background: black;
+	border:1px solid black;
+	padding:3px 30px;
+}
+.teamtype .action{
+	background: #5c5c5c;
+}
+.food {
+	float: left;
+	padding: 0 10%;
+	padding-top: 10px;
+	background: #dddddd;
+}
+.food li{
+	width: 32%;
+	margin:0 0.6%;
+	padding-bottom: 4px;
+	margin-bottom: 25px;
+}
+.food li div{
+	margin-top:-4px;
+	font-size:18px;
+	color:white;
+	background: black;
+}
+.connect{
+	width:100%;
+}
+.conleft{
+	width: 45%;
+	padding:0 2.5%;
+	padding-bottom: 20px;
+	text-align: left;
+	margin:0 auto;
+	height: auto;
+}
+.connect li{
+	list-style:square;
+	float: none;
+	margin-left: 20px;
+}
+.connect li span{
+	float: right;
+}
+.conleft hr{
+	height: 0px;
+	border:none;
+	border-top:1px dashed #939393;
+	border-bottom:1px dashed #dddddd;
+}
+.conright{
+	padding:0 2.5%;
+	padding-bottom: 20px;
+	width: 45%;
+}
+.conright input{
+	border: none;
+	background: #dddddd;
+	font-size: 15px;
+	padding-left: 10px;
+	width: 100%;
+	height: 30px;
+	margin-bottom: 20px;
+}
+.conright textarea{
+	border: none;
+	background: #dddddd;
+	font-size: 15px;
+	padding-left: 10px;
+	width: 100%;
+	height: 150px;
+}
+.conright button{
+	border: none;
+	background: #5c5c5c;
+	color: white;
+	margin-top: 10px;
+	padding:0 50px;
+	font-size: 17px;
+	height: 40px;
+}
+.connect div{
+	padding-top: 20px;
+	float: left;
+}
+.connect img{
+	width:100%;
+}
+.bdaohang{
+	padding:0 15%;
+	color:white;
+	width: 70%;
+	float: left;
+	display:inline-block;
+	font-size:18px;
+	background: black;
+	text-align: center;
+}
+.bdaohang ul{
+	margin:5px;
+}
+.bdaohang li{
+	cursor:pointer;
+	padding-right: 10px;
+	margin-bottom:5px;
+}
+.copys{
+	width: 100%;
+}
+.footer{
+	float: left;
+	width: 100%;
+	background: black;
+	height: 150px;
+}
