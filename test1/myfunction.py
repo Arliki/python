@@ -4,7 +4,7 @@
 # @Author  : Arliki
 # @Contact : hdknxycz@outlook.com 
 # @Site    : 
-# @File    : my2.py
+# @File    : myfunction.py
 # @Software: PyCharm
 import re
 class ComRe(object):
